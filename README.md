@@ -22,7 +22,7 @@ Javascript, HTML, CSS...
 
 👩‍💻 I'm currently working on Open soucre Contributon
 
-🧠 I'm currently learning  fronend at Zuri
+🧠 I'm currently learning  frontend at Zuri
 
 👯‍♀️ I'm looking to collaborate on any open gigs with cool money
 
